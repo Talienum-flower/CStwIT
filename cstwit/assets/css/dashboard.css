@@ -1,0 +1,53 @@
+div.dt-container div.dt-search input {
+    box-shadow: none;
+    border-color: #800000 1px solid;
+}
+
+div.dt-container div.dt-length select {
+    box-shadow: none;
+    border-color: #800000 1px solid;
+}
+
+.dt-column-title {
+    color: #800000;
+}
+
+table.dataTable thead > tr > th.dt-ordering-asc span.dt-column-order:before {
+    color: #800000;
+}
+
+table.dataTable thead > tr > th.dt-ordering-desc span.dt-column-order:after {
+    color: #800000;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+  border-radius: 5px;
+  border: 1px solid #800000;
+}
+
+div.dataTables_wrapper div.dataTables_filter input:focus {
+  border-radius: 5px;
+  border: 1px solid #800000;
+  box-shadow: none;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #800000;
+  border-color: #800000;
+  color: white;
+  box-shadow: none;
+}
+
+.pagination .page-link {
+  margin-bottom: 10px;
+}
+
+div.dt-container div.dt-search input   {
+  box-shadow: none;
+  border-color: #800000 !important;
+}
+
+div.dt-container div.dt-length select {
+  box-shadow: none;
+  border-color: #800000 !important;
+}
